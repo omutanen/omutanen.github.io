@@ -1,0 +1,16 @@
+/* 5 additional rules */
+
+#cv-title {
+    padding-top: 0.5em;
+    padding-bottom: 1em;
+    text-align: center;
+}
+
+#om-navbar-main {
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+#textbody {
+    padding-left: 3em;
+}
